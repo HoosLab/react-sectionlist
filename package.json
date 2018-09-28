@@ -28,5 +28,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/HoosLab/react-sectionlist"
-  }
+  },
+  "keywords": [
+    "react",
+    "sectionlist",
+    "list"
+  ]
 }
