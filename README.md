@@ -11,7 +11,7 @@ Run the following command:
 `npm install react-sectionlist`
 
 ## Getting Started
-```
+```jsx
 import React, { Component } from 'react';
 import ReactSectionList from 'react-sectionlist';
 
