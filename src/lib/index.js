@@ -1,3 +1,3 @@
 import ReactSectionList from './ReactSectionList';
 
-export { ReactSectionList };
+export default ReactSectionList;
