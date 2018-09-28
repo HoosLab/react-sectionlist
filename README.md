@@ -3,7 +3,7 @@ A Library of React SectionList.
 The goal is to make it similar to React Native's SectionList.
 
 ## Intro
-[Alt sectionlist screenshot](media/sectionlist.png)
+![Alt sectionlist screenshot](media/sectionlist.png)
 
 ## Installation
 Run the following command:
