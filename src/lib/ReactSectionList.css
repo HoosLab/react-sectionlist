@@ -16,7 +16,7 @@
 }
 
 .section-header {
-  /* font-weight: bold; */
+  display: flex;
   padding: 5px 16px;
   color: #9E9E9E;
 }
