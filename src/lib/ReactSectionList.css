@@ -15,10 +15,12 @@
   margin-bottom: 20px;
 }
 
-.section-header {
+.section-header,
+.section-description {
   display: flex;
   padding: 5px 16px;
   color: #9E9E9E;
+  font-size: 15px;
 }
 
 .section-item-container {
@@ -37,14 +39,4 @@
 
 .section-item:last-child {
   border-bottom: none;
-}
-
-.section-description {
-  padding: 5px 16px;
-  color: #9E9E9E;
-}
-
-.section-header,
-.section-description {
-  font-size: 15px;
 }
