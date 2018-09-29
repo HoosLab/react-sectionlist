@@ -33,5 +33,7 @@
     "react",
     "sectionlist",
     "list"
-  ]
+  ],
+  "license": "MIT",
+  "author": "Younghoo Kim"
 }
